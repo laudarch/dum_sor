@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/laudarch/AndroidstudioProjects/Dum-Sor/app/libs/neutrino.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="866c703c24c3d717c52e1563f36d4b365c7c7afc">
+        <dex dex="/home/laudarch/AndroidstudioProjects/Dum-Sor/app/build/intermediates/pre-dexed/debug/neutrino-6c2e21950110cb0ef82f2bd2ba0c58a8065fbd2f.jar" />
+    </item>
+
+</items>
